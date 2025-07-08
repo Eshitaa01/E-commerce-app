@@ -1,0 +1,17 @@
+# FitWear – A React E-Commerce App
+
+FitWear is a fully functional and styled e-commerce web application built using **React**. It supports browsing fashion products, liking items, searching through listings, cart and checkout flow, dark/light theme, and route protection with login/signup.
+
+---
+
+## Features
+
+- Product listing with dynamic data
+- Like toggle for each product (using `useState`)
+- Search filter using controlled input
+- Light/Dark Theme Toggle (via `useContext`)
+- Protected checkout page for logged-in users
+- Login & Sign-Up functionality
+- Cart system with real-time item count
+- Checkout page with full billing breakdown (GST, discounts, delivery)
+- Responsive UI with custom styling
